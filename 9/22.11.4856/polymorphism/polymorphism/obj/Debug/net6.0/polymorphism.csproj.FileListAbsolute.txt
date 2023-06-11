@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\bin\Debug\net6.0\polymorphism.exe
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\bin\Debug\net6.0\polymorphism.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\bin\Debug\net6.0\polymorphism.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\bin\Debug\net6.0\polymorphism.dll
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\bin\Debug\net6.0\polymorphism.pdb
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.dll
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\refint\polymorphism.dll
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.pdb
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\polymorphism.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\9\22.11.4856\polymorphism\polymorphism\obj\Debug\net6.0\ref\polymorphism.dll
